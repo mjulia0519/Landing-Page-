@@ -1,0 +1,19 @@
+body{
+    background-color: #affc41;
+}
+.footer{
+    background-color: #fe5f55;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+h3{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+h5{
+    text-align: center;
+}
